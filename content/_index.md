@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        The MADE Lab is a laboratory in Chungnam National University.
+        MADE Lab is a laboratory in Computer Science & Engineering dept., Chungnam National University.
         Our mission is to find efficient ML algorithms and achieve self-evolving AI.
 
         학부 인턴 및 대학원 관심이 있는 학생은 편하게 연락바랍니다.
