@@ -13,7 +13,7 @@ sections:
         filename: welcome.jpg
       text: |
         <br>
-        <font size="8">
+        <font size="7">
         MADE Lab is a laboratory in Computer Science & Engineering dept., Chungnam National University.
         Our mission is to improve the efficiency of ML algorithms to next levels, to achieve non-trivial algorithms for various data-related problems, and to develop a more parameter-efficient and robust reasoning methodology compared to existing approaches.
         </font>
