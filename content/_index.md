@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        <font size="10">Machine Learning and <br>&nbsp;&nbsp;&nbsp; Data Engineering Lab </font>
+        <font size="10"><span style="color:blue">MA</span>chine Learning and <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:red">D</span>ata <span style="color:red">E</span>ngineering Lab </font>
       image:
         filename: welcome.jpg
       text: |
