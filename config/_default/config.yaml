@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: MADE Lab # Website name
+title: Machine Learning and Data Engineering Lab # Website name
 baseURL: 'http://madelab-cnu.com/' # Website URL
 
 ############################
