@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Machine Learning and Data Engineering Lab
+        MADE Lab
       image:
         filename: welcome.jpg
       text: |
@@ -17,7 +17,7 @@ sections:
         The MADE Lab is a laboratory in Chungnam National University.
         Our mission is to find efficient ML algorithms and achieve self-evolving AI.
 
-        학부 인턴 및 대학원 관심이 있는 학생은 편하게 연락바랍니다.
+        <h3>학부 인턴 및 대학원 관심이 있는 학생은 편하게 연락바랍니다.</h3>
   
   - block: collection
     content:
