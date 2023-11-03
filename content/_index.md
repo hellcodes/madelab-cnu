@@ -1,4 +1,4 @@
----
+J---
 # Leave the homepage title empty to use the site title
 title:
 date: 2023-11-03
@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        MADE Lab
+        Machine Learning and Data Engineering (MADE) Lab
       image:
         filename: welcome.jpg
       text: |
