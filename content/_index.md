@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        <font size="10"><b><span style="color:blue">MA</span>chine Learning</b> and <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b><span style="color:red">D</span>ata <span style="color:red">E</span>ngineering</b> Lab </font>
+        <font size="10"><b><span style="color:blue">MA</span>chine Learning</b> and <b><span style="color:red">D</span>ata <span style="color:red">E</span>ngineering</b> Lab </font>
       image:
         filename: welcome.jpg
       text: |
