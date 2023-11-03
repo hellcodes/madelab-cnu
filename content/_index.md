@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        <font size="10">Machine Learning and Data Engineering (MADE) Lab </font>
+        <font size="10">Machine Learning and <br> Data Engineering (MADE) Lab </font>
       image:
         filename: welcome.jpg
       text: |
