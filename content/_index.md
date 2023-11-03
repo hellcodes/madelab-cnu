@@ -15,7 +15,8 @@ sections:
         <br>
         
         MADE Lab is a laboratory in Computer Science & Engineering dept., Chungnam National University.
-        Our mission is to find efficient ML algorithms and achieve self-evolving AI.
+        Our mission is to improve the efficiency of ML algorithms to next levels, to achieve non-trivial algorithms for various data-related problems, and to develop a more parameter-efficient and robust reasoning methodology compared to existing approaches.
+               
 
         <font size="4">학부 인턴 및 대학원 관심이 있는 학생은 편하게 연락바랍니다.</font>
   
