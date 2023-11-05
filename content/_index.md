@@ -19,7 +19,7 @@ sections:
         <br>
         <font size="4">학부 인턴 및 대학원 관심이 있는 학생은 편하게 연락바랍니다.</font>
   
-    - block: collection
+  - block: collection
     content:
       title: Research Area
       text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
