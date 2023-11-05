@@ -38,7 +38,6 @@ sections:
       view: card
       columns: '1'
 
-sections:
   - block: markdown
     content:
       title: My title
