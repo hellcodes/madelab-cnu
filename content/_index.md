@@ -6,8 +6,6 @@ type: landing
 
 sections:
   - block: hero
-    background:
-      color: 'navy'
     content:
       title: |
         <font size="9">Machine Learning and Data Engineering Lab </font>
@@ -20,7 +18,10 @@ sections:
         </font>
         <br>
         <font size="4">학부 인턴 및 대학원 관심이 있는 학생은 편하게 연락바랍니다.</font>
-  
+    design:
+      background:
+        color: 'navy'
+        text_color_light: true
   - block: collection
     content:
       title: Research Area
