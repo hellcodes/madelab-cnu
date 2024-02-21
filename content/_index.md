@@ -6,6 +6,8 @@ type: landing
 
 sections:
   - block: hero
+    background:
+      color: 'navy'
     content:
       title: |
         <font size="9">Machine Learning and Data Engineering Lab </font>
