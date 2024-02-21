@@ -20,7 +20,7 @@ sections:
         <font size="4">학부 인턴 및 대학원 관심이 있는 학생은 편하게 연락바랍니다.</font>
     design:
       background:
-        color: 'navy'
+        color: #585858
         text_color_light: true
   - block: collection
     content:
