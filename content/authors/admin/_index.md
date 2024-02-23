@@ -30,11 +30,11 @@ interests:
 
 education:
   courses:
-    - course: PhD in Computer Science
-      institution: KAIST
+    - course: Ph.D. in Computer Science
+      institution: Korea Advanced Institute of Science and Technology
       year: 2014
-    - course: BS in Compute Science
-      institution: KAIST
+    - course: B.S. in Compute Science
+      institution: Korea Advanced Institute of Science and Technology
       year: 2010
 
 # Social/Academic Networking
