@@ -21,14 +21,12 @@ organizations:
 bio: Jong-Ryul Lee is currently an assistant professor at CNU.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
   - Query processing algorithms on graph data
   - Computational issues in data mining
-  - Deep Learning
+  - Retrieval-Augmented Generation
   - Visual Question and Answering
   - Neural Network Model Compression
+  - Graph Neural Networks
 
 education:
   courses:
@@ -74,6 +72,4 @@ user_groups:
   - Principal Investigators
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Jong-Ryul Lee is currently an assistant professor at CNU. He received a B.S. degree from KAIST in 2010, and a Ph.D. degree under the supervison of Prof. Chin-Wan Chung in Computer Science at KAIST in Aug. 2014. The title of the dissertation is: "Efficient Query Processing Algorithms for Network Analysis". From 2015 to 2020, he was a senior software engineer at Samsung Research. While at Samsung Research, he worked on visual question answering, visual SLAM (Simultaneous Localization And Mapping), and neural network model compression. From 2020 to 2023, he was a senior researcher at ETRI. While at ETRI, he worked on neural network model compression and efficient methods for model scaling for various platforms.
