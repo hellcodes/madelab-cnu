@@ -1,5 +1,5 @@
 ---
-title: Research Area
+title: News
 
 # Listing view
 view: compact
