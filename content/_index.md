@@ -10,7 +10,7 @@ sections:
       title: |
         <font size="9">Machine Learning and Data Engineering Lab </font>
       image:
-        filename: welcome.PNG
+        filename: welcome.jpg
       text: |
         <br>
         <font size="4">
