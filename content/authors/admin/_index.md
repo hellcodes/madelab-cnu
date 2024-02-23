@@ -33,7 +33,7 @@ education:
     - course: PhD in Computer Science
       institution: KAIST
       year: 2014
-    - course: BSc in Compute Science
+    - course: BS in Compute Science
       institution: KAIST
       year: 2010
 
