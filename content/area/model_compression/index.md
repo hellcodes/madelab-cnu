@@ -1,5 +1,6 @@
 ---
 title: Neural Network Model Compression
+show_date: false
 image:
   focal_point: 'top'
 ---
