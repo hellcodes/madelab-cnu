@@ -18,24 +18,27 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Jong-Ryul Lee is currently an assistant professor at CNU.
+He received a B.S. degree from KAIST in 2010, and a Ph.D. degree under the supervison of Prof. Chin-Wan Chung in Computer Science at KAIST in Aug. 2014. The title of the dissertation is: "Efficient Query Processing Algorithms for Network Analysis". From 2015 to 2020, he was a senior software engineer at Samsung Research. While at Samsung Research, he worked on visual question answering, visual SLAM (Simultaneous Localization And Mapping), and neural network model compression. From 2020 to 2023, he was a senior researcher at ETRI. While at ETRI, he worked on neural network model compression and efficient methods for model scaling for various platforms.
 
 interests:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
+  - Query processing algorithms on graph data
+  - Computational issues in data mining
+  - Deep Learning
+  - Visual Question and Answering
+  - Neural Network Model Compression
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Computer Science
+      institution: KAIST
+      year: 2014
+    - course: BSc in Compute Science
+      institution: KAIST
+      year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
