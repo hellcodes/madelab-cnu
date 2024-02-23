@@ -30,7 +30,7 @@ sections:
           - area
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '2'
+      columns: '1'
       # Choose your content listing view - here we use the `showcase` view
       view: compact
       # For the Showcase view, do you want to flip alternate rows?
@@ -44,7 +44,7 @@ sections:
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '2'    
+      columns: '1'    
     
   - block: collection
     content:
@@ -54,7 +54,7 @@ sections:
           - project
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '2'
+      columns: '1'
       # Choose your content listing view - here we use the `showcase` view
       view: compact
       # For the Showcase view, do you want to flip alternate rows?
@@ -62,10 +62,10 @@ sections:
     
   - block: collection
     content:
-      title: Projects
+      title: News
       filters:
         folders:
-          - project
+          - post
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
