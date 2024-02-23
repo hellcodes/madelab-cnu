@@ -1,6 +1,6 @@
 ---
-title: Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020
-date: 2020-12-02
+title: Neural Network Model Compression
+date: 2024-02-24
 image:
   focal_point: 'top'
 ---
