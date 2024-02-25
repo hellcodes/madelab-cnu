@@ -5,4 +5,5 @@ image:
   focal_point: 'top'
 ---
 
-Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.
+Neural network model compression is a research field for acheiving lightweight neural networks with minimal loss of accuracy to deploy them on practical edge devices.
+It is about increasing the accessibility of AI services to as many people as possible.
