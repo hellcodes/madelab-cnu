@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         <font size="4">
-        Our mission is to improve the efficiency of ML algorithms to next levels, to achieve non-trivial algorithms for data-intensive problems, and to develop a more parameter-efficient and robust reasoning methodology compared to existing approaches. We are passionate about tackling significant challenges in various fields such as computer vision and natural language processing, with a focus on addressing fundamental problems. We are seeking talented students to join us on our journey.
+        Our mission is to improve the efficiency of ML algorithms to next levels, to achieve non-trivial algorithms for data-intensive problems, and to develop a parameter-efficient and robust reasoning methodology. We are passionate about tackling significant challenges in various fields such as computer vision and natural language processing, with a focus on addressing fundamental problems. We are seeking talented students to join us on our journey.
         </font>
         <br>
         <font size="4">학부 인턴 및 대학원 관심이 있는 학생은 편하게 연락바랍니다.</font>
