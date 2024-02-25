@@ -1,5 +1,5 @@
 ---
-title: Research Area
+title: Projects
 
 # Listing view
 view: compact
