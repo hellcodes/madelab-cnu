@@ -38,9 +38,8 @@ sections:
 
   - block: markdown
     content:
-      title: How to Apply (지원방법)
-      subtitle: My subtitle
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      title: How to Join Us
+      text: Send an email to me with your curriculum vitae.
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
