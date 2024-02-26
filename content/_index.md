@@ -36,15 +36,6 @@ sections:
       # For the Showcase view, do you want to flip alternate rows?
       flip_alt_rows: true
 
-  - block: markdown
-    content:
-      title: How to Join Us
-      text: Send an email to me with your curriculum vitae.
-    design:
-      # See Page Builder docs for all section customization options.
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'    
-    
   - block: collection
     content:
       title: Projects
