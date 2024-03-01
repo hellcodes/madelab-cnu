@@ -1,37 +1,32 @@
 ---
-title: 'An example conference paper'
+title: 'Efficient Distance Sensitivity Oracles for Real-World Graph Data'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Chin-Wan Chung
 
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-
-date: '2013-07-01T00:00:00Z'
+date: '2021-01-01'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2021-01-01'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ['paper-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: IEEE Transactions on Knowledge and Data Engineering
+publication_short: In *IEEE TKDE*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: A distance sensitivity oracle is a data structure answering queries that ask the shortest distance from a node to another in a network expecting node/edge failures. It has been mainly studied in theory literature, but all the existing oracles for a directed graph suffer from prohibitive preprocessing time and space. Motivated by this, we develop two practical distance sensitivity oracles for directed graphs as variants of Transit Node Routing. The first oracle consists of a novel fault-tolerant index structure, which is used to construct a solution path and to detect and localize the impact of network failures, and an efficient query algorithm for it. The second oracle is made by applying the A* heuristics to the first oracle, which exploits lower bound distances to effectively reduce search space. In addition, we propose additional speed-up techniques to make our oracles faster with a slight loss of accuracy. We conduct extensive experiments with real-life datasets, which demonstrate that our oracles greatly outperform all of competitors in most cases. To the best of our knowledge, our oracles are the first distance sensitivity oracles that handle real-world graph data with million-level nodes.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This paper dealt with efficient methods for answering distance queries with expecting some edge failures.
 
 tags: []
 
@@ -43,14 +38,14 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_pdf: 'http://islab.kaist.ac.kr/chungcw/interJournal_papers/tkde%202021.pdf'
+url_code: ''
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_video: 'https://youtube.com'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -64,23 +59,12 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: []
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://wowchemy.com/docs/content/writing-markdown-latex/).
