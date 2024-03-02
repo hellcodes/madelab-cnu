@@ -1,4 +1,3 @@
-
 ---
 title: 'A Query Approach for Influence Maximization on Specific Users in Social Networks'
 
