@@ -2,7 +2,7 @@
 title: Publications
 
 # Listing view
-view: compact
+view: citation
 
 sort_by: Params.date
 
