@@ -1,4 +1,3 @@
-
 ---
 title: 'A Fast Approximation for Influence Maximization in Large Social Networks'
 
