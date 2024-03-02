@@ -8,11 +8,11 @@ authors:
   - admin
   - Yong-Hyuk Moon
 
-date: '2022-11'
+date: '2022-11-01'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-11'
+publishDate: '2022-11-01'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
