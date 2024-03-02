@@ -8,11 +8,11 @@ authors:
   - admin
   - Chin-Wan Chung
 
-date: '2014-04'
+date: '2014-04-01'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2014-04'
+publishDate: '2014-04-01'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
