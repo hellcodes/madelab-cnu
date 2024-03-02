@@ -1,5 +1,5 @@
 ---
-title: 충남대 온디바이스 AI 소프트웨어 혁신인재교육연구단
+title: 충남대 온디바이스 AI 소프트웨어 혁신인재교육연구단(BK21 4단계)
 show_date: false
 image:
   focal_point: 'top'
