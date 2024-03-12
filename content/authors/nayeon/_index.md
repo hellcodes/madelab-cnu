@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Jong-Ryul Lee
+title: Na-Yeon Kim
 
 # Full Name (for SEO)
-first_name: Jong-Ryul
-last_name: Lee
+first_name: Na-Yeon
+last_name: Kim
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Assistant Professor
+role: M.S. Students
 
 # Organizations/Affiliations
 organizations:
@@ -18,24 +18,16 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Jong-Ryul Lee is currently an assistant professor at CNU.
+bio: Na-Yeon Kim is currently a Master of Science Student at CNU.
 
 interests:
-  - Query processing algorithms on graph data
-  - Computational issues in data mining
-  - Retrieval-Augmented Generation
-  - Visual Question and Answering
-  - Neural Network Model Compression
-  - Graph Neural Networks
+  - Computer Vision
+  - Machine Learning, Deep Learning
+  - MultiModal Deep Learning
 
 education:
   courses:
-    - course: Ph.D. in Computer Science
-      institution: Korea Advanced Institute of Science and Technology
-      year: 2014
-    - course: B.S. in Compute Science
-      institution: Korea Advanced Institute of Science and Technology
-      year: 2010
+    
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -44,13 +36,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:jongryul.lee@cnu.ac.kr'
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=0fwXzPgAAAAJ
+    link: 'mailto:rntk9413@gmail.com'
   - icon: github
     icon_pack: fab
-    link: https://github.com/hellcodes
+    link: https://github.com/KIMNAYEONKIM
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
