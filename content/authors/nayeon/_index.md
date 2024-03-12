@@ -7,7 +7,7 @@ first_name: Na-Yeon
 last_name: Kim
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: M.S. Students
