@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: In-Woo Hwang is currently a Master of Science Student at CNU.
+bio: In-Woo Hwang is currently a Ph.D. Student at CNU.
 
 interests:
   - Graph Neural Network
@@ -36,7 +36,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:allhpy35@gmail.com'
+    link: 'allhpy35@gmail.com'
   - icon: github
     icon_pack: fab
     link: https://github.com/allhpy35
