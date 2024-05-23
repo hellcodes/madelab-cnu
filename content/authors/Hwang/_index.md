@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Na-Yeon Kim
+title: In-Woo Hwang
 
 # Full Name (for SEO)
 first_name: In-Woo
@@ -36,10 +36,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:rntk9413@gmail.com'
+    link: 'mailto:allhpy35@gmail.com'
   - icon: github
     icon_pack: fab
-    link: https://github.com/KIMNAYEONKIM
+    link: https://github.com/allhpy35
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
