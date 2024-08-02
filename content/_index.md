@@ -24,7 +24,7 @@ sections:
         # text_color_light: true
 
         image:
-          filename: coders.jpg
+          filename: main.jpg
           filters:
             brightness: 1
           parallax: false
