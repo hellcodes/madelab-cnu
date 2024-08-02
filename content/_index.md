@@ -24,7 +24,7 @@ sections:
         # text_color_light: true
 
         image:
-          filename: main.jpg
+          filename: main_image.jpg
           filters:
             brightness: 1
           parallax: false
