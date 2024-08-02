@@ -20,8 +20,18 @@ sections:
         <font size="4">학부 인턴 및 대학원 관심이 있는 학생은 편하게 연락바랍니다.</font>
     design:
       background:
-        color: "#424242"
-        text_color_light: true
+        # color: "#424242"
+        # text_color_light: true
+
+        image:
+          filename: coders.jpg
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: cover
+          text_color_light: true
+    
   - block: collection
     content:
       title: Research Area
