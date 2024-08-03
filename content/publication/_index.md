@@ -2,10 +2,11 @@
 title: Publications
 
 # Listing view
-view: compact
+view: citation
 
 sort_by: Params.date
-font_size: XS
+font_size: 5
+
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
