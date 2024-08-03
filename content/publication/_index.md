@@ -5,7 +5,7 @@ title: Publications
 view: citation
 
 sort_by: Params.date
-font_size: S
+font_size: XS
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
