@@ -2,7 +2,7 @@
 title: Publications
 
 # Listing view
-view: showcase
+view: compact
 
 sort_by: Params.date
 font_size: XS
