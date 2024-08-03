@@ -5,7 +5,7 @@ title:
 type: landing
 
 sections:
-  - block: hero
+  - block: markdown
     content:
       title: |
         <font size="9" color="white">Machine Learning and<br/>Data Engineering Lab </font>
