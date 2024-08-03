@@ -1,6 +1,8 @@
 ---
 title: Publications
 
+type: landing
+
 # Listing view
 view: citation
 
