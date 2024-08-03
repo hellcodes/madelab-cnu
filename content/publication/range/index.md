@@ -23,7 +23,7 @@ publication_types: ['paper-journal']
 
 # Publication name and optional abbreviated publication name.
 publication: "In IEEE Transactions on Knowledge and Data Engineering"
-publication_short: In *IEEE TKDE*
+publication_short: In <b>*IEEE TKDE*</b>
 
 abstract: In the classic range aggregation problem, we have a set S of objects such that, given an interval I, a query counts how many objects of S are covered by I. Besides COUNT, the problem can also be defined with other aggregate functions, e.g., SUM, MIN, MAX and AVERAGE. This paper studies a novel variant of range aggregation, where an object can belong to multiple sets. A query (at runtime) picks any two sets, and aggregates on their intersection. More formally, let S 1 ,...,S m be m sets of objects. Given distinct set ids i, j and an interval I, a query reports how many objects in S i ∩ S j are covered by I. We call this problem range aggregation with set selection (RASS). Its hardness lies in that the pair (i, j) can have ( 2 m ) choices, rendering effective indexing a non-trivial task. 2 The RASS problem can also be defined with other aggregate functions, and generalized so that a query chooses more than 2 sets. We develop a system called RASS to power this type of queries. Our system has excellent efficiency in both theory and practice. Theoretically, it consumes linear space, and achieves nearly-optimal query time. Practically, it outperforms existing solutions on real datasets by a factor up to an order of magnitude. The paper also features a rigorous theoretical analysis on the hardness of the RASS problem, which reveals invaluable insight into its characteristics.
 
