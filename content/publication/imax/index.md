@@ -21,7 +21,7 @@ publication_types: ['paper-journal']
 
 # Publication name and optional abbreviated publication name.
 publication: IEEE Transactions on Knowledge and Data Engineering
-publication_short: In *IEEE TKDE*
+publication_short: In <b>*IEEE TKDE*</b>
 
 abstract: Influence maximization is introduced to maximize the profit of viral marketing in social networks. The weakness of influence maximization is that it does not distinguish specific users from others, even if some items can be only useful for the specific users. For such items, it is a better strategy to focus on maximizing the influence on the specific users. In this paper, we formulate an influence maximization problem as query processing to distinguish specific users from others. We show that the query processing problem is NP-hard and its objective function is submodular. We propose an expectation model for the value of the objective function and a fast greedy-based approximation method using the expectation model. For the expectation model, we investigate a relationship of paths between users. For the greedy method, we work out an efficient incremental updating of the marginal gain to our objective function. We conduct experiments to evaluate the proposed method with real-life datasets, and compare the results with those of existing methods that are adapted to the problem. From our experimental results, the proposed method is at least an order of magnitude faster than the existing methods in most cases while achieving high accuracy.
 
