@@ -21,7 +21,7 @@ publication_types: ['paper-journal']
 
 # Publication name and optional abbreviated publication name.
 publication: IEEE Transactions on Knowledge and Data Engineering
-publication_short: In *IEEE TKDE*
+publication_short: In <b>*IEEE TKDE*</b>
 
 abstract: A distance sensitivity oracle is a data structure answering queries that ask the shortest distance from a node to another in a network expecting node/edge failures. It has been mainly studied in theory literature, but all the existing oracles for a directed graph suffer from prohibitive preprocessing time and space. Motivated by this, we develop two practical distance sensitivity oracles for directed graphs as variants of Transit Node Routing. The first oracle consists of a novel fault-tolerant index structure, which is used to construct a solution path and to detect and localize the impact of network failures, and an efficient query algorithm for it. The second oracle is made by applying the A* heuristics to the first oracle, which exploits lower bound distances to effectively reduce search space. In addition, we propose additional speed-up techniques to make our oracles faster with a slight loss of accuracy. We conduct extensive experiments with real-life datasets, which demonstrate that our oracles greatly outperform all of competitors in most cases. To the best of our knowledge, our oracles are the first distance sensitivity oracles that handle real-world graph data with million-level nodes.
 
