@@ -1,6 +1,7 @@
 ---
 title: Efficient AI
 show_date: false
+date: '2023-09-02'
 image:
   focal_point: 'Center'
 ---
