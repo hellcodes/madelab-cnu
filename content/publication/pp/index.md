@@ -21,7 +21,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In the British Machine Vision Conference (BMVC)
-publication_short: In *BMVC 2023*
+publication_short: In <b>*BMVC 2023*</b>
 
 abstract: Group Fisher Pruning is a powerful gradient-based channel pruning method for convolutional neural networks. Even though it provides excellent convenience for allocating sparsity over layers with strong effectiveness, the cost of its pruning process is significantly expensive for large neural networks. In addition, it was proposed to handle neural networks having residual connections, but it still cannot handle concatenation-type connections like DenseNet. These drawbacks make Group Fisher Pruning hard to be utilized for somewhat large or complex neural networks. Motivated by them, we propose an improved method based on Group Fisher Pruning for efficiency and applicability. For efficiency, we parameterize the number of pruned channels at each pruning step and demonstrate that it can be a much larger value than one. We devise a formal algorithm for applicability to prune DenseNet-style neural networks. In addition, we devise a knowledge distillation-based channel importance scoring scheme that can work for label-free channel pruning, which is a crucial task for exploiting unlabeled data from edge devices. To demonstrate the superiority of our method, we conduct extensive experiments dealing with label-free channel pruning. Our method prunes neural networks at most two orders of magnitude faster than Group Fisher Pruning with comparable accuracy. It should be noticed that our method does not require any label for pruning and retraining while Group Fisher Pruning does.
 
