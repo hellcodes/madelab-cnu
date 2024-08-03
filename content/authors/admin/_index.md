@@ -7,7 +7,7 @@ first_name: Jong-Ryul
 last_name: Lee
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Assistant Professor
