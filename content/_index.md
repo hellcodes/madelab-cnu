@@ -13,11 +13,11 @@ sections:
         filename: welcome.png
       text: |
         <br>
-        <font size="5" color="white" style="line-height:0.5">
+        <font size="4.5" color="white" style="line-height:0.5">
         Our mission is to improve the efficiency of ML algorithms to next levels, to achieve non-trivial algorithms for data-intensive problems, and to develop a parameter-efficient and robust reasoning methodology. We are passionate about tackling significant challenges in various fields such as computer vision and natural language processing, with a focus on addressing fundamental problems. We are seeking talented students to join us on our journey.
         </font>
         <br>
-        <font size="5" color="white"><b>학부 인턴 및 대학원 관심이 있는 학생은 편하게 연락바랍니다.</b></font>
+        <font size="4.5" color="white"><b>학부 인턴 및 대학원 관심이 있는 학생은 편하게 연락바랍니다.</b></font>
     design:
       background:
         # color: "#424242"
@@ -50,6 +50,7 @@ sections:
   - block: collection
     content:
       title: News
+      style: 'font-size: 4'
       filters:
         folders:
           - post
@@ -60,7 +61,6 @@ sections:
       view: compact
       # For the Showcase view, do you want to flip alternate rows?
       flip_alt_rows: true
-      css_style: 'font-size: 4'
 
   - block: collection
     content:
