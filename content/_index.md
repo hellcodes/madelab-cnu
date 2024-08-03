@@ -60,6 +60,7 @@ sections:
       view: compact
       # For the Showcase view, do you want to flip alternate rows?
       flip_alt_rows: true
+      font_size: L
     
 
   - block: collection
@@ -75,6 +76,7 @@ sections:
       view: compact
       # For the Showcase view, do you want to flip alternate rows?
       flip_alt_rows: true
+      
 
         
 ---
