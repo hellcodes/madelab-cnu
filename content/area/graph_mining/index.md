@@ -1,6 +1,7 @@
 ---
 title: Graph Algorithms
 show_date: false
+date: '2023-09-01'
 image:
   focal_point: 'center'
 ---
