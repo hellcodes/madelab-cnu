@@ -1,6 +1,7 @@
 ---
 title: Neural Reasoning
 show_date: false
+date: '2023-09-02'
 image:
   focal_point: 'top'
 ---
