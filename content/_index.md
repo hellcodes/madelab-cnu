@@ -50,7 +50,6 @@ sections:
   - block: collection
     content:
       title: News
-      style: 'font-size: 4'
       filters:
         folders:
           - post
@@ -61,6 +60,7 @@ sections:
       view: compact
       # For the Showcase view, do you want to flip alternate rows?
       flip_alt_rows: true
+      css_style: 'font-size: large'
 
   - block: collection
     content:
