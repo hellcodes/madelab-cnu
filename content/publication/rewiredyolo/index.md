@@ -20,7 +20,7 @@ publishDate: '2024-07-14'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: "In AVSS 2024"
+publication: In AVSS 2024
 publication_short: In *AVSS 2024*
 
 abstract: Modern neural network models commonly have residual connections, because they are helpful to achieve better performance. Due to their unconditional popularity, modifying them to achieve a better efficiency-accuracy trade-off is rarely studied in the literature. Motivated by this, we study how to get an efficient sub-network by rewiring a neural block having residual connections based on their inference paths. Based on this, we devise a new simulated annealing-based neural network rewiring method. Then, we construct a simple yet effective compression pipeline by combining this rewiring method and a recent channel pruning method. To demonstrate the effectiveness of the pipeline, we use object detection as the target task and consider YOLOv8 as the target model. We conduct experiments with two well-known datasets: VisDrone and PASCAL VOC. The results of the experiments demonstrate that our pipeline successfully outperforms the pruning method alone in most cases. Compared to YOLOv8 series, our method can offer more accurate models for VisDrone.
