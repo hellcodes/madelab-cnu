@@ -1,7 +1,7 @@
 ---
 title: Publications
 
-css_style: font-size:xx-small
+css_style: font-size:.7rem
 
 # Listing view
 view: citation
