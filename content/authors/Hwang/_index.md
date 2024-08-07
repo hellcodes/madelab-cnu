@@ -22,10 +22,10 @@ bio: In-Woo Hwang is currently a Ph.D. Student at CNU.
 
 interests:
   - Graph Neural Network
-  - Heterogeneous Network Embedding
   - Graph Embedding
-  - RNA-disease associdation prediction
-  - circRNA-disease association prediction
+  - Heterogeneous Network Embedding
+  - miRNA-disease associdation prediction
+  - ceRNA based circRNA-disease association prediction
 
 education:
   courses: 
