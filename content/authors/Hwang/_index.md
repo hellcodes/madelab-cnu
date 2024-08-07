@@ -69,3 +69,4 @@ highlight_name: false
 user_groups:
   - Ph.D. Students
 ---
+Inwoo Hwang is currently a PhD student at Chungnam National University under the supervision of Prof. Jongryul Lee. He received his bachelor's degree from Mokwon National University, Department of Information and Communication Convergence Engineering in 2021. In 2022, he received his master's degree from Chungnam National University, Department of BIO-AI, majoring in AI-Biology & Pharmaceutical Science under the supervision of Prof. Kyu-Cheol Lee. The title of his thesis is "CircRNA-disease association prediction using detailed negative set on distance metric-based (DiNeg-CDA)".
