@@ -22,15 +22,17 @@ bio: Injong Han is currently a Master of Science Student at CNU.
 
 interests:
   - Natural Language Processing, Large Language Models
-  - Retrieval-Augmented Generation, Semantic Search & Vector Space Model
+  - Retrieval-Augmented Generation, Semantic Search & Vector Space Models
   - MultiModal Deep Learning
 
 education:
   courses:
-  - B.S. in Department of International Trade, 1990
-    Chungnam National University
-  - B.S. in Department of Oceanography, 1990
-    Chungnam National University
+  - course: B.S. in Department of International Trade, 1990
+    institution:  Chungnam National University
+    year: 1990
+  - course:  B.S. in Department of Oceanography
+    institution:  Chungnam National University
+    year: 1990
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
