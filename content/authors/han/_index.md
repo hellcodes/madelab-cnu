@@ -27,8 +27,10 @@ interests:
 
 education:
   courses:
-  - B.S. in Department of International Trade, 1990, Chungnam National University
-  - B.S. in Department of Oceanography, 1990, Chungnam National University
+  - B.S. in Department of International Trade, 1990
+    Chungnam National University
+  - B.S. in Department of Oceanography, 1990
+    Chungnam National University
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
