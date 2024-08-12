@@ -18,7 +18,8 @@ organizations:
     url: 'https://portal.cnu.ac.kr/p/postgradStud/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Injong Han is currently a PhD student at Chungnam National University.
+bio: Injong Han is currently a Master of Science Student at CNU.
+.
 
 interests:
   - Natural Language Processing & Large Language Models
