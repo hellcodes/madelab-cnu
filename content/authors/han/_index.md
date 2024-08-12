@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: B.S. in Department of International Trade, 1990
+  - course: B.S. in Department of International Trade
     institution:  Chungnam National University
     year: 1990
   - course:  B.S. in Department of Oceanography
