@@ -24,7 +24,7 @@ interests:
   - Natural Language Processing & Large Language Models
   - Retrieval-Augmented Generation
   - Semantic Search & Vector Space Models
-  - MultiModal Deep Learning
+  - Multimodal Embedding
 
 education:
   courses:
