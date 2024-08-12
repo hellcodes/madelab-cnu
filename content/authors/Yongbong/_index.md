@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Youngbong Kim
+title: Yongbong Kim
 
 # Full Name (for SEO)
-first_name: Youngbong
+first_name: Yongbong
 last_name: Kim
 
 # Is this the primary user of the site?
@@ -18,7 +18,7 @@ organizations:
     url: 'https://portal.cnu.ac.kr/p/postgradStud/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Youngbong Kim is currently a Master of Science Student at Chungnam National University under the supervision of Professor Lee Jong-ryul. 
+bio: Yongbong Kim is currently a Master of Science Student at Chungnam National University under the supervision of Professor Lee Jong-ryul. 
 
 interests:
   - Speech Recognition using the novel Universal Phoneme Symbols and Deep Neural Networks
