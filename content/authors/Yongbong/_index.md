@@ -18,7 +18,7 @@ organizations:
     url: 'https://portal.cnu.ac.kr/p/postgradStud/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Injong Han is currently a Master of Science Student at CNU.
+bio: Injong Han is currently a Master of Science Student at Chungnam National University under the supervision of Professor Lee Jong-ryul. He received his bachelor's degree in International Trade from the College of Business Administration and his bachelor's degree in Oceanography from the College of Natural Sciences in 1990. After graduating from college, he worked in the IT industry for about 33 years as a SW developer, UNIX server pre-sales, and cloud computing consultant. Out of curiosity, he studied big data analysis and AI, especially face recognition using CNN, for several years. He is researching artificial intelligence at the Department of Computer Engineering at Chungnam National University.
 
 interests:
   - Natural Language Processing & Large Language Models
