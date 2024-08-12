@@ -21,10 +21,7 @@ organizations:
 bio: Youngbong Kim is currently a Master of Science Student at Chungnam National University under the supervision of Professor Lee Jong-ryul. 
 
 interests:
-  - Natural Language Processing & Large Language Models
-  - Retrieval-Augmented Generation
-  - Semantic Search & Vector Space Models
-  - MultiModal Deep Learning
+  - Speech Recognition using the novel Universal Phoneme Symbols and Deep Neural Networks
 
 education:
   courses:
