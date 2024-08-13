@@ -19,7 +19,6 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: Injong Han is currently a Master of Science Student at CNU.
-.
 
 interests:
   - Natural Language Processing & Large Language Models
