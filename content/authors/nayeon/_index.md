@@ -24,6 +24,7 @@ interests:
   - Computer Vision
   - Machine Learning, Deep Learning
   - MultiModal Deep Learning
+  - Visual Question Answering
 
 education:
   courses: 
