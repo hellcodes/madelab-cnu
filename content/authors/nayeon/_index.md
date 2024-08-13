@@ -27,12 +27,12 @@ interests:
 
 education:
   courses: 
-    - course: M.S in Space & Geology Major
+    - course: M.S in Space & Geology
       institution: Chungnam National University
-      year: 2023
-    - course: B.S. in Department of Information & Communication Engineering
-      institution: Mokwon University
-      year: 2021
+      year: 2018 - 2020
+    - course: B.S. in Astronomy & Space Science
+      institution: Chungnam National University
+      year: 2015 - 2018
     
 
 # Social/Academic Networking
