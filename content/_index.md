@@ -19,11 +19,13 @@ sections:
         <br>
         <font size="4.5" color="white"><b>학부 인턴 및 대학원 관심이 있는 학생은 편하게 연락바랍니다.</b></font>
         <br>
+        <font size="4.5" color="white" style="line-height:0.5">
         Research Items: <br/>
         - Neural Network Compression, Knowledge Distillation, On-device Learning, AutoML <br/>
         - Real-time Object Detection on Edge Devices <br/>
         - Visual Question Answering, Video Question Answering <br/>
         - Graph Neural Networks, Graph Algorithm, Efficient Shortest Routing
+        </font>
     design:
       background:
         # color: "#424242"
