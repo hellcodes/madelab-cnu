@@ -10,7 +10,7 @@ last_name: Kim
 superuser: false
 
 # Role/position
-role: Undergraduate Intern
+role: Undergraduate Intern (24.09 ~ 24.12)
 
 # Organizations/Affiliations
 organizations:
