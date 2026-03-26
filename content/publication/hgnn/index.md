@@ -7,8 +7,8 @@ title: 'Multi-Hyperbolic Space-based Heterogeneous Graph Attention Network'
 authors:
   - Jongmin Park
   - Seunghoon Han
-  - admin\*
-  - Sungsu Lim*
+  - admin
+  - Sungsu Lim
 
 date: '2024-10-19'
 doi: 'https://doi.org/10.48550/arXiv.2411.11283'
