@@ -10,7 +10,7 @@ last_name: Kim
 superuser: false
 
 # Role/position
-role: M.S. Students
+role: Ph.d. Students
 
 # Organizations/Affiliations
 organizations:
