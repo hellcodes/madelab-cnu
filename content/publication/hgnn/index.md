@@ -10,11 +10,11 @@ authors:
   - admin *
   - Sungsu Lim*
 
-date: '2021-11-07'
-doi: '10.18653/v1/2021.findings-emnlp.372'
+date: '2024-10-19'
+doi: 'https://doi.org/10.48550/arXiv.2411.11283'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-01-01'
+publishDate: '2024-10-10'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
