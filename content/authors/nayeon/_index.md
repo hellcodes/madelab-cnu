@@ -10,7 +10,7 @@ last_name: Kim
 superuser: false
 
 # Role/position
-role: Ph.d. Students
+role: Ph.D. Students
 
 # Organizations/Affiliations
 organizations:
@@ -62,6 +62,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Ph.d. Students
+  - Ph.D. Students
 ---
 
