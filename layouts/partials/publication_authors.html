@@ -1,0 +1,28 @@
+{{- $item := . -}}
+{{- $corresponding := $item.Params.corresponding_authors | default slice -}}
+{{- $highlighted := site.Params.publications.highlight_authors | default slice -}}
+{{- $correspondence_label := cond (gt (len $corresponding) 1) "Co-corresponding author" "Corresponding author" -}}
+
+{{- range $index, $author := $item.GetTerms "authors" -}}
+  {{- $author_id := index $item.Params.authors $index -}}
+  {{- $is_corresponding := in $corresponding $author_id -}}
+  {{- $is_highlighted := and (in $highlighted $author_id) (not $is_corresponding) -}}
+  {{- if gt $index 0 }}, {{ end -}}
+  <span class="publication-author">
+    {{- if $is_highlighted }}<strong>{{ end -}}
+    {{- if $author.RelPermalink -}}
+      <a href="{{ $author.RelPermalink }}">{{ $author.LinkTitle }}</a>
+    {{- else -}}
+      {{ $author.LinkTitle }}
+    {{- end -}}
+    {{- if $is_highlighted }}</strong>{{ end -}}
+    {{- if $is_corresponding -}}
+      <sup title="{{ $correspondence_label }}" aria-label="{{ $correspondence_label }}">*</sup>
+    {{- end -}}
+  </span>
+  {{- if isset $item.Params "author_notes" -}}
+    {{- with (index $item.Params.author_notes $index) -}}
+      <i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="{{ . }}"></i>
+    {{- end -}}
+  {{- end -}}
+{{- end -}}

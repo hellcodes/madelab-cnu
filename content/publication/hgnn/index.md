@@ -10,6 +10,10 @@ authors:
   - admin
   - Sungsu Lim
 
+corresponding_authors:
+  - admin
+  - Sungsu Lim
+
 date: '2024-10-19'
 doi: 'https://doi.org/10.48550/arXiv.2411.11283'
 
