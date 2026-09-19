@@ -6,7 +6,7 @@
 {{- range $index, $author := $item.GetTerms "authors" -}}
   {{- $author_id := index $item.Params.authors $index -}}
   {{- $is_corresponding := in $corresponding $author_id -}}
-  {{- $is_highlighted := and (in $highlighted $author_id) (not $is_corresponding) -}}
+  {{- $is_highlighted := in $highlighted $author_id -}}
   {{- if gt $index 0 }}, {{ end -}}
   <span class="publication-author">
     {{- if $is_highlighted }}<strong>{{ end -}}
