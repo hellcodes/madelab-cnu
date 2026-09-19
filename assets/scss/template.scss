@@ -17,7 +17,37 @@
   }
 }
 
-// Slightly reduce the citation text on the Publications listing page.
-.publications-page .pub-list-item.view-citation {
+// Keep the publication rows compact while separating authors, title, and venue.
+.publications-page .pub-list-item.view-publication {
+  display: grid;
+  grid-template-columns: 2ch minmax(0, 1fr);
+  column-gap: 0.75rem;
   font-size: 0.9rem;
+  padding: 1.1rem 0;
+  border-top: 1px solid rgba(128, 128, 128, 0.2);
+
+  .publication-number {
+    opacity: 0.6;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .publication-body {
+    min-width: 0;
+    overflow-wrap: break-word;
+  }
+
+  .publication-title {
+    margin: 0.1rem 0 0;
+    font-size: inherit;
+    font-weight: 600;
+    line-height: inherit;
+  }
+
+  .publication-venue {
+    margin-top: 0.1rem;
+  }
+
+  .publication-links {
+    margin-top: 0.35rem;
+  }
 }

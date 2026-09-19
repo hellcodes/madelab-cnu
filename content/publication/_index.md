@@ -5,7 +5,7 @@ design:
   css_class: publications-page
 
 # Listing view
-view: citation
+view: publication
 
 sort_by: Params.date
 

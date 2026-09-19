@@ -1,0 +1,30 @@
+{{ $item := .item }}
+{{ $year := $item.Date.Format "2006" }}
+
+<article class="pub-list-item view-publication">
+  <span class="publication-number" aria-hidden="true">{{ printf "%02d" (add .index 1) }}</span>
+
+  <div class="publication-body">
+    <div class="publication-authors li-cite-author">
+      {{ partial "page_metadata_authors" $item }}
+    </div>
+
+    <h2 class="publication-title">
+      <a href="{{ $item.RelPermalink }}">{{ $item.Title }}</a>
+    </h2>
+
+    <div class="publication-venue">
+      {{- with ($item.Params.publication | default $item.Params.publication_short) -}}
+        {{ . | markdownify }}{{ if not (in . $year) }}, {{ $year }}{{ end }}
+      {{- else -}}
+        {{ $year }}
+      {{- end -}}
+    </div>
+
+    {{ if partial "functions/has_attachments" $item }}
+      <div class="publication-links">
+        {{ partial "page_links" (dict "page" $item "is_list" 1) }}
+      </div>
+    {{ end }}
+  </div>
+</article>
