@@ -1,5 +1,6 @@
 ---
 title: 중이온가속기 빔 가용율 증대를 위한 이상 탐지 모델 고도화 및 데이터 분석 플랫폼 개발
+date: '2026-02-01'
 show_date: false
 image:
   focal_point: 'top'

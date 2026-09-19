@@ -62,6 +62,8 @@ sections:
   - block: collection
     content:
       title: Projects
+      sort_by: Date
+      sort_ascending: false
       filters:
         folders:
           - projects

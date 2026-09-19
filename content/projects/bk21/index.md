@@ -1,5 +1,6 @@
 ---
 title: 충남대 온디바이스 AI 소프트웨어 혁신인재교육연구단(BK21 4단계)
+date: '2023-09-01'
 show_date: false
 image:
   focal_point: 'top'
