@@ -8,10 +8,17 @@
   justify-content: center;
 }
 
-// Display People portraits as upright rectangles.
-.people-widget .avatar-rectangle {
+// Display People and author profile portraits as upright rectangles.
+.people-widget .avatar-rectangle,
+#profile .avatar-rectangle {
   border-radius: 0;
   object-fit: cover;
+}
+
+#profile .avatar-rectangle {
+  max-width: 100%;
+  height: auto;
+  aspect-ratio: 3 / 4;
 }
 
 // Match the Publications listing width to the navbar's responsive container.
