@@ -7,3 +7,17 @@
 .cta-group {
   justify-content: center;
 }
+
+// Match the Publications listing width to the navbar's responsive container.
+.publications-page .universal-wrapper {
+  @include make-container();
+
+  @include media-breakpoint-up(xl) {
+    max-width: map-get($container-max-widths, xl);
+  }
+}
+
+// Slightly reduce the citation text on the Publications listing page.
+.publications-page .pub-list-item.view-citation {
+  font-size: 0.9rem;
+}
