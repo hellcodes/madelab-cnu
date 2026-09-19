@@ -8,6 +8,12 @@
   justify-content: center;
 }
 
+// Display People portraits as upright rectangles.
+.people-widget .avatar-rectangle {
+  border-radius: 0;
+  object-fit: cover;
+}
+
 // Match the Publications listing width to the navbar's responsive container.
 .publications-page .universal-wrapper {
   @include make-container();
